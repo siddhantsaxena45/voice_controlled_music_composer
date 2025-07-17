@@ -1,0 +1,7 @@
+cffi==1.17.1
+pycparser==2.22
+pydub==0.25.1
+pygame==2.6.1
+sounddevice==0.5.2
+SpeechRecognition==3.14.3
+typing_extensions==4.14.1
